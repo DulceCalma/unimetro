@@ -305,7 +305,7 @@ const frases = [
   "Tus preocupaciones no definen tu futuro 🔮",
   "Mereces todos los abrazos del mundo 🤗",
   "La vida es dulce cuando te das permiso de disfrutarla 🍭",
-  "Respira profundo... eres más fuerte de lo que crees 🌸"
+  "Respira profundo... eres más fuerte de lo que crees 🌸",
 "Cuando sientas que no puedes más, recuerda todo lo que ya has superado 💪",
 "Rendirse es una opción, pero nunca será la tuya 🌟",
 "El cansancio es temporal, la victoria es eterna 🏆",
